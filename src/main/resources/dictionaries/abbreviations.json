@@ -1,0 +1,20 @@
+{
+  "mf": "mutual fund",
+  "sip": "systematic investment plan",
+  "swp": "systematic withdrawal plan",
+  "stp": "systematic transfer plan",
+  "yr": "year",
+  "yrs": "years",
+  "mth": "month",
+  "mths": "months",
+  "amt": "amount",
+  "fd": "fixed deposit",
+  "elss": "equity linked savings scheme",
+  "nav": "net asset value",
+  "xirr": "xirr",
+  "cagr": "cagr",
+  "eq": "equity",
+  "lc": "large cap",
+  "mc": "mid cap",
+  "sc": "small cap"
+}

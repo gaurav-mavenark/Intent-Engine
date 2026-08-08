@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "HDFC Top 100", "company": "HDFC", "assetClass": "Mutual Fund", "marketCap": "Large Cap", "amount": 150000, "purchaseDate": "2025-03-14", "xirr": 14.2},
+  {"id": 2, "name": "ICICI Bluechip", "company": "ICICI", "assetClass": "Mutual Fund", "marketCap": "Large Cap", "amount": 220000, "purchaseDate": "2025-06-02", "xirr": 13.5},
+  {"id": 3, "name": "Axis Bluechip", "company": "Axis", "assetClass": "Mutual Fund", "marketCap": "Large Cap", "amount": 98000, "purchaseDate": "2024-11-20", "xirr": 12.8},
+  {"id": 4, "name": "SBI Small Cap Fund", "company": "SBI", "assetClass": "Mutual Fund", "marketCap": "Small Cap", "amount": 75000, "purchaseDate": "2025-01-10", "xirr": 21.4},
+  {"id": 5, "name": "Kotak Emerging Equity", "company": "Kotak", "assetClass": "Mutual Fund", "marketCap": "Mid Cap", "amount": 60000, "purchaseDate": "2023-08-05", "xirr": 16.9},
+  {"id": 6, "name": "Nippon FD 5Y", "company": "Nippon", "assetClass": "Fixed Deposit", "marketCap": null, "amount": 300000, "purchaseDate": "2022-04-01", "xirr": null},
+  {"id": 7, "name": "Reliance Industries", "company": "Reliance", "assetClass": "Stock", "marketCap": "Large Cap", "amount": 45000, "purchaseDate": "2025-09-15", "xirr": 9.1}
+]

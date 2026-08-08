@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: portfolio-nlu
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+portfolio:
+  data:
+    connected: false

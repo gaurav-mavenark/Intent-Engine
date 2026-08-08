@@ -1,0 +1,40 @@
+{
+  "assetClass": {
+    "mutual fund": "Mutual Fund",
+    "stock": "Stock",
+    "stocks": "Stock",
+    "equity": "Stock",
+    "fixed deposit": "Fixed Deposit",
+    "bond": "Bond",
+    "bonds": "Bond",
+    "gold": "Gold",
+    "elss": "ELSS",
+    "debt fund": "Debt Fund"
+  },
+  "marketCap": {
+    "large cap": "Large Cap",
+    "mid cap": "Mid Cap",
+    "small cap": "Small Cap",
+    "multi cap": "Multi Cap",
+    "flexi cap": "Flexi Cap"
+  },
+  "metric": {
+    "xirr": "XIRR",
+    "cagr": "CAGR",
+    "returns": "Returns",
+    "return": "Returns",
+    "nav": "NAV",
+    "net asset value": "NAV"
+  },
+  "company": {
+    "hdfc": "HDFC",
+    "icici": "ICICI",
+    "axis": "Axis",
+    "sbi": "SBI",
+    "kotak": "Kotak",
+    "nippon": "Nippon",
+    "mirae": "Mirae Asset",
+    "parag parikh": "Parag Parikh",
+    "quant": "Quant"
+  }
+}
